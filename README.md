@@ -1,13 +1,5 @@
-# Node JS Zoom Clone
+# VioChat
 
-Credit to [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)
-
-### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Zoom Clone with JavaScript, NodeJS, and MongoDB?
-
-Check out our `Profit With JavaScript Course`    :point_down: 
-
-[Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=5-aug-live-zoom-clone-youssef-naz&utm_campaign=live-everyday&utm_term=warm)
-
-Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Youssef](https://www.instagram.com/youcef.dev/)
+its A prototype I have made for the video chatting purpose which acts similar to the zoom enjoy the chatting if you have any problem just pull a request I will be happy to acept your oulls
 
 
